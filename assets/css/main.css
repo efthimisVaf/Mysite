@@ -32,6 +32,10 @@ body {
 	line-height: 1;
 }
 
+.attribution {
+	display: inline;
+}
+
 ol, ul {
 	list-style: none;
 }
